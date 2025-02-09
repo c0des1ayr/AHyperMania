@@ -40,7 +40,7 @@ You can use `./build.sh` in `src/` to automate this process if you don't mind ru
 - move `hypermania.dll` from `out\build\(ARCHITECTURE)-Debug` to the mods' root directory (where `mod.ini` is).
 
 ## Android
-See [RSDKv5-Decompilation/dependencies/android/README.md](https://github.com/RSDKModding/RSDKv5-Decompilation/blob/master/dependencies/android/README.md).
+See [the Android readme](./ANDROID.md).
 
 ## CMake options
 - `RELEASE` - Set to strip debug info from binary
